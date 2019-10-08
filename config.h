@@ -7,13 +7,13 @@ static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *fonts[]          = { "monospace:size=10:antialias=true:autohint=true" };
 
-static const char norm_fg[]         = "#9b9081";
-static const char norm_bg[]         = "#181b20";
-static const char norm_border[]     = "#181b20";
+static const char norm_fg[]         = "#599cab";
+static const char norm_bg[]         = "#11151c";
+static const char norm_border[]     = "#11151c";
 
-static const char sel_fg[]          = "#3b7c87";
-static const char sel_bg[]          = "#181b20";
-static const char sel_border[]      = "#3b7c87";
+static const char sel_fg[]          = "#99d1ce";
+static const char sel_bg[]          = "#11151c";
+static const char sel_border[]      = "#99d1ce";
 
 static const char *colors[][3]      = {
   /*               fg         bg         border   */
